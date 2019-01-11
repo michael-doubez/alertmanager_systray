@@ -1,0 +1,7 @@
+# URL of Prometheus AlertManager to poll
+targets:
+- name: "PROD"
+  urls: ["http://localhost:9093"]
+  poll_by_default: true
+- name: "TEST"
+  poll_by_default: false

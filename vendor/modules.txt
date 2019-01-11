@@ -1,0 +1,37 @@
+# github.com/gen2brain/beeep v0.0.0-20180718162406-4e430518395f
+github.com/gen2brain/beeep
+# github.com/getlantern/context v0.0.0-20190109183933-c447772a6520
+github.com/getlantern/context
+# github.com/getlantern/errors v0.0.0-20180829142810-e24b7f4ff7c7
+github.com/getlantern/errors
+# github.com/getlantern/golog v0.0.0-20170508214112-cca714f7feb5
+github.com/getlantern/golog
+# github.com/getlantern/hex v0.0.0-20160523043825-083fba3033ad
+github.com/getlantern/hex
+# github.com/getlantern/hidden v0.0.0-20160523043807-d52a649ab33a
+github.com/getlantern/hidden
+# github.com/getlantern/ops v0.0.0-20170904182230-37353306c908
+github.com/getlantern/ops
+# github.com/getlantern/systray v0.0.0-20181206010516-eaad7114094d
+github.com/getlantern/systray
+# github.com/go-stack/stack v1.8.0
+github.com/go-stack/stack
+# github.com/godbus/dbus v4.1.0+incompatible
+github.com/godbus/dbus
+# github.com/gopherjs/gopherjs v0.0.0-20180825215210-0210a2f0f73c
+github.com/gopherjs/gopherjs/js
+# github.com/gopherjs/gopherwasm v1.0.1
+github.com/gopherjs/gopherwasm/js
+# github.com/mitchellh/go-homedir v1.0.0
+github.com/mitchellh/go-homedir
+# github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
+github.com/nu7hatch/gouuid
+# github.com/oxtoacart/bpool v0.0.0-20150712133111-4e1c5567d7c2
+github.com/oxtoacart/bpool
+# golang.org/x/sys v0.0.0-20190109145017-48ac38b7c8cb
+golang.org/x/sys/windows/registry
+golang.org/x/sys/windows
+# gopkg.in/toast.v1 v1.0.0-20180812000517-0a84660828b2
+gopkg.in/toast.v1
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
